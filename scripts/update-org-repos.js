@@ -8,7 +8,7 @@ const path = require("path");
 const https = require("https");
 
 const ORG_NAME = process.env.ORG_NAME || "Universal-Coding-Experiments";
-const TARGET_README = process.env.TARGET_README || "profile/README.md";
+const TARGET_README = process.env.TARGET_README || ".github/profile/README.md";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 async function fetchAllRepos(org) {
