@@ -1,0 +1,9 @@
+{
+    "name": "org-readme-updater",
+    "version": "1.0.0",
+    "description": "Update organization profile README with public repos list",
+    "license": "MIT",
+    "scripts": {
+        "update": "node scripts/update-org-repos.js"
+    }
+}
