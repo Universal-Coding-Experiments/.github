@@ -25,8 +25,12 @@ async function fetchAllRepos(org) {
     page++;
   }
 
-  // Filter archieved forks if desired
-  return all.filter(r => !r.archived).sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+  const EXCLUDE = [".github"];
+
+  return all
+    .filter(r => !r.archived && !EXCLUDE.includes(r.name))
+    .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+
 }
 
 function ghGet(url) {
