@@ -1,45 +1,53 @@
+# .github/workflows/update-org-repos.yml
 name: Update org repos list
 
 on:
-    schedule:
-        - cron: "0 0 * * *" # every day at 00:00 UTC
-    workflow_dispatch: # allow manual trigger
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC
+  workflow_dispatch: # allow manual trigger
 
 permissions:
-    contents: write
+  contents: write
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout .github repo
-              uses: actions/checkout@v4
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout .github repo
+        uses: actions/checkout@v4
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: "18"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
 
-            - name: Install dependencies
-              run: npm install
-              working-directory: .github
+      - name: Print runner path (debug)
+        run: |
+          echo "Current working directory:"
+          pwd
+          echo "Listing files:"
+          ls -la
+          echo "Node version:"
+          node -v
 
-            - name: Run update script
-              run: node scripts/update-org-repos.js
-              working-directory: .github
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  ORG_NAME: Universal-Coding-Experiments
-                  TARGET_README: profile/README.md
+      - name: Install dependencies
+        run: npm install
 
-            - name: Commit and push changes
-              run: |
-                  if [[ -n $(git status --porcelain) ]]; then
-                    git config user.name "github-actions[bot]"
-                    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                    git add .
-                    git commit -m "chore: update org repos list"
-                    git push
-                  else
-                    echo "No changes to commit"
-                  fi
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORG_NAME: Universal-Coding-Experiments
+          TARGET_README: profile/README.md
+        run: node scripts/update-org-repos.js
+
+      - name: Commit and push changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "chore: update org repos list"
+            git push
+          else
+            echo "No changes to commit"
+          fi
