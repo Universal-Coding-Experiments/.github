@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button) – Designing with HTML & CSS, Programming with JavaScript. 
 - [image-hover-zoom](https://github.com/Universal-Coding-Experiments/image-hover-zoom) – How to create a smooth image hover zoom effect using only HTML and CSS.
 - [countdown-timer](https://github.com/Universal-Coding-Experiments/countdown-timer) – How to create a dynamic timer for events, launches, or websites — beginner‑friendly and easy to customize. Perfect for web developers, students, and anyone learning to code.
 - [card-flip-animation](https://github.com/Universal-Coding-Experiments/card-flip-animation) – Discover how to implement a captivating css animation with html and css, making your interactive elements shine!
@@ -14,7 +15,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 8 of 8 public repositories. Last updated: 2025-12-10.
+> Showing 9 of 9 public repositories. Last updated: 2025-12-10.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
