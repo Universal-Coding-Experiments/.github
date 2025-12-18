@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [sentiment-analyzer](https://github.com/Universal-Coding-Experiments/sentiment-analyzer) – How to analyze text for positive, negative, or neutral sentiment with just a few lines of code. Perfect for beginners exploring AI, natural language processing (NLP), and Python programming.  
 - [form-input-validations](https://github.com/Universal-Coding-Experiments/form-input-validations) – Building modern, responsive sign-up forms with HTML, CSS, and JavaScript. You’ll learn advanced validation techniques, error handling, and UI/UX improvements to make your forms professional and user-friendly.
 - [neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button) – Designing with HTML & CSS, Programming with JavaScript. 
 - [image-hover-zoom](https://github.com/Universal-Coding-Experiments/image-hover-zoom) – How to create a smooth image hover zoom effect using only HTML and CSS.
@@ -16,7 +17,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 10 of 10 public repositories. Last updated: 2025-12-18.
+> Showing 11 of 11 public repositories. Last updated: 2025-12-18.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
