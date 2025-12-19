@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain) – 🌧️ Want to impress your friends or audience with a fun coding trick? Create an Emoji Rain Animation using HTML, CSS, and JavaScript — all in under 1 minute! Emojis fall randomly across the screen with smooth animations, perfect for learning DOM manipulation, CSS keyframes, and creative frontend design.
 - [sentiment-analyzer](https://github.com/Universal-Coding-Experiments/sentiment-analyzer) – How to analyze text for positive, negative, or neutral sentiment with just a few lines of code. Perfect for beginners exploring AI, natural language processing (NLP), and Python programming.  
 - [form-input-validations](https://github.com/Universal-Coding-Experiments/form-input-validations) – Building modern, responsive sign-up forms with HTML, CSS, and JavaScript. You’ll learn advanced validation techniques, error handling, and UI/UX improvements to make your forms professional and user-friendly.
 - [neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button) – Designing with HTML & CSS, Programming with JavaScript. 
@@ -17,7 +18,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 11 of 11 public repositories. Last updated: 2025-12-19.
+> Showing 12 of 12 public repositories. Last updated: 2025-12-19.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
