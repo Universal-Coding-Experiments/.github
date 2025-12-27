@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [merry-christmas-fireworks](https://github.com/Universal-Coding-Experiments/merry-christmas-fireworks) – Watch Christmas magic burst into life with code! This short features a dazzling JavaScript fireworks animation built with HTML5 Canvas, styled with glowing particles and festive colors.
 - [snow-animation-in-JavaScript](https://github.com/Universal-Coding-Experiments/snow-animation-in-JavaScript) – Watch winter come alive in code! This short features a smooth JavaScript snow animation built with HTML5 Canvas
 - [emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain) – 🌧️ Want to impress your friends or audience with a fun coding trick? Create an Emoji Rain Animation using HTML, CSS, and JavaScript — all in under 1 minute! Emojis fall randomly across the screen with smooth animations, perfect for learning DOM manipulation, CSS keyframes, and creative frontend design.
 - [sentiment-analyzer](https://github.com/Universal-Coding-Experiments/sentiment-analyzer) – How to analyze text for positive, negative, or neutral sentiment with just a few lines of code. Perfect for beginners exploring AI, natural language processing (NLP), and Python programming.  
@@ -19,7 +20,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 13 of 13 public repositories. Last updated: 2025-12-26.
+> Showing 14 of 14 public repositories. Last updated: 2025-12-27.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
