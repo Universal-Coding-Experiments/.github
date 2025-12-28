@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [starfield-simulation](https://github.com/Universal-Coding-Experiments/starfield-simulation) – This short demo shows a polished starfield simulation with depth perspective, motion blur, twinkling stars, and mouse/touch parallax — perfect for backgrounds, landing pages, and creative coding reels. The project is optimized for desktop and mobile with device‑pixel scaling and automatic resize handling.
 - [merry-christmas-fireworks](https://github.com/Universal-Coding-Experiments/merry-christmas-fireworks) – Watch Christmas magic burst into life with code! This short features a dazzling JavaScript fireworks animation built with HTML5 Canvas, styled with glowing particles and festive colors.
 - [snow-animation-in-JavaScript](https://github.com/Universal-Coding-Experiments/snow-animation-in-JavaScript) – Watch winter come alive in code! This short features a smooth JavaScript snow animation built with HTML5 Canvas
 - [emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain) – 🌧️ Want to impress your friends or audience with a fun coding trick? Create an Emoji Rain Animation using HTML, CSS, and JavaScript — all in under 1 minute! Emojis fall randomly across the screen with smooth animations, perfect for learning DOM manipulation, CSS keyframes, and creative frontend design.
@@ -20,7 +21,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 14 of 14 public repositories. Last updated: 2025-12-27.
+> Showing 15 of 15 public repositories. Last updated: 2025-12-28.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
