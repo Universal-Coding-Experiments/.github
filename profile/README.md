@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [new-year-countdown](https://github.com/Universal-Coding-Experiments/new-year-countdown) – An interactive New Year celebration web project featuring, Fireworks and confetti effects rendered on HTML5 Canvas, Live countdown to the next New Year (auto‑updates every year), Elapsed timer showing how long the project has been running since its start date, Responsive UI/UX with crisp text placement, glow effects, and adaptive scaling.
 - [random-walkers](https://github.com/Universal-Coding-Experiments/random-walkers) – Responsive, high‑performance random walkers simulation built with JavaScript and HTML5 Canvas. This demo showcases colorful walkers moving with dynamic trails, interactive effects, and special behaviors — perfect for backgrounds, landing pages, and creative coding reels.
 - [starfield-simulation](https://github.com/Universal-Coding-Experiments/starfield-simulation) – This short demo shows a polished starfield simulation with depth perspective, motion blur, twinkling stars, and mouse/touch parallax — perfect for backgrounds, landing pages, and creative coding reels. The project is optimized for desktop and mobile with device‑pixel scaling and automatic resize handling.
 - [merry-christmas-fireworks](https://github.com/Universal-Coding-Experiments/merry-christmas-fireworks) – Watch Christmas magic burst into life with code! This short features a dazzling JavaScript fireworks animation built with HTML5 Canvas, styled with glowing particles and festive colors.
@@ -22,7 +23,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 16 of 16 public repositories. Last updated: 2025-12-31.
+> Showing 17 of 17 public repositories. Last updated: 2026-01-01.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
