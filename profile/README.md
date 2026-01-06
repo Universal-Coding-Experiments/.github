@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [illusion_snake_game](https://github.com/Universal-Coding-Experiments/illusion_snake_game) – llusion Snake — a lightweight, responsive HTML5 snake game with a visual rotation illusion, touch and keyboard controls, and a simple client leaderboard for demos. 
 - [clock](https://github.com/Universal-Coding-Experiments/clock) – Animated clock built with HTML5 Canvas and JavaScript. It’s fully responsive, adapts to any screen, and features smooth sweeping hands, tick marks, numerals, and subtle micro‑interactions. Perfect for creative coders, UI/UX enthusiasts, and anyone exploring interactive web projects.
 - [radial-audio-visualizer](https://github.com/Universal-Coding-Experiments/radial-audio-visualizer) – Experience a stunning radial audio visualizer built with HTML5 Canvas, CSS, and JavaScript. This interactive demo responds to audio input, lets you drag to move the center, pinch to change density, and even record your visuals. Perfect for creative coders, music lovers, and anyone exploring generative art.
 - [new-year-countdown](https://github.com/Universal-Coding-Experiments/new-year-countdown) – An interactive New Year celebration web project featuring, Fireworks and confetti effects rendered on HTML5 Canvas, Live countdown to the next New Year (auto‑updates every year), Elapsed timer showing how long the project has been running since its start date, Responsive UI/UX with crisp text placement, glow effects, and adaptive scaling.
@@ -25,7 +26,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 19 of 19 public repositories. Last updated: 2026-01-05.
+> Showing 20 of 20 public repositories. Last updated: 2026-01-06.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
