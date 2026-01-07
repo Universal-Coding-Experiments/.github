@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [calculator](https://github.com/Universal-Coding-Experiments/calculator) – A quick showcase of a responsive calculator built with HTML, CSS, and JavaScript. It adapts seamlessly to desktop and mobile screens, supports basic operations (+, −, ×, ÷, %), and displays full expressions like 10 × 10 before showing the result.
 - [illusion_snake_game](https://github.com/Universal-Coding-Experiments/illusion_snake_game) – llusion Snake — a lightweight, responsive HTML5 snake game with a visual rotation illusion, touch and keyboard controls, and a simple client leaderboard for demos. 
 - [clock](https://github.com/Universal-Coding-Experiments/clock) – Animated clock built with HTML5 Canvas and JavaScript. It’s fully responsive, adapts to any screen, and features smooth sweeping hands, tick marks, numerals, and subtle micro‑interactions. Perfect for creative coders, UI/UX enthusiasts, and anyone exploring interactive web projects.
 - [radial-audio-visualizer](https://github.com/Universal-Coding-Experiments/radial-audio-visualizer) – Experience a stunning radial audio visualizer built with HTML5 Canvas, CSS, and JavaScript. This interactive demo responds to audio input, lets you drag to move the center, pinch to change density, and even record your visuals. Perfect for creative coders, music lovers, and anyone exploring generative art.
@@ -26,7 +27,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 20 of 20 public repositories. Last updated: 2026-01-06.
+> Showing 21 of 21 public repositories. Last updated: 2026-01-07.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
