@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [ascii-art-generator](https://github.com/Universal-Coding-Experiments/ascii-art-generator) – ASCII Art Generator: type text or upload an image, apply presets, tweak density and randomness, then export a high‑quality PNG with gradient colorization - step‑by‑step and ready to reuse.
 - [calculator](https://github.com/Universal-Coding-Experiments/calculator) – A quick showcase of a responsive calculator built with HTML, CSS, and JavaScript. It adapts seamlessly to desktop and mobile screens, supports basic operations (+, −, ×, ÷, %), and displays full expressions like 10 × 10 before showing the result.
 - [illusion_snake_game](https://github.com/Universal-Coding-Experiments/illusion_snake_game) – llusion Snake — a lightweight, responsive HTML5 snake game with a visual rotation illusion, touch and keyboard controls, and a simple client leaderboard for demos. 
 - [clock](https://github.com/Universal-Coding-Experiments/clock) – Animated clock built with HTML5 Canvas and JavaScript. It’s fully responsive, adapts to any screen, and features smooth sweeping hands, tick marks, numerals, and subtle micro‑interactions. Perfect for creative coders, UI/UX enthusiasts, and anyone exploring interactive web projects.
@@ -27,7 +28,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 21 of 21 public repositories. Last updated: 2026-01-07.
+> Showing 22 of 22 public repositories. Last updated: 2026-01-08.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
