@@ -5,6 +5,8 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [parallax-landing-page](https://github.com/Universal-Coding-Experiments/parallax-landing-page) – Discover how to build a stunning Parallax Scrolling Landing Page using HTML, CSS, and Tailwind. This short demo showcases responsive design, smooth scrolling, fade‑in animations, testimonials, pricing grids, and social icons - all optimized for mobile and desktop.
+- [tic-tac-toe-vs-computer](https://github.com/Universal-Coding-Experiments/tic-tac-toe-vs-computer) – This project lets you play against the computer with three difficulty levels: Easy, Normal, and Hard. Features include a countdown timer, modern UI, play/retry overlay, and local history tracking of wins and losses. Perfect for beginners and intermediate developers looking to practice JavaScript game logic and responsive design.
 - [color-palette-generator](https://github.com/Universal-Coding-Experiments/color-palette-generator) – Live demo: generate harmonious color palettes, lock colors, preview themes, and export PNG/JSON — optimized for designers and developers. Learn sharing, mobile tips, and undo/redo workflow.
 - [ascii-art-generator](https://github.com/Universal-Coding-Experiments/ascii-art-generator) – ASCII Art Generator: type text or upload an image, apply presets, tweak density and randomness, then export a high‑quality PNG with gradient colorization - step‑by‑step and ready to reuse.
 - [calculator](https://github.com/Universal-Coding-Experiments/calculator) – A quick showcase of a responsive calculator built with HTML, CSS, and JavaScript. It adapts seamlessly to desktop and mobile screens, supports basic operations (+, −, ×, ÷, %), and displays full expressions like 10 × 10 before showing the result.
@@ -29,7 +31,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 23 of 23 public repositories. Last updated: 2026-01-10.
+> Showing 25 of 25 public repositories. Last updated: 2026-01-11.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
