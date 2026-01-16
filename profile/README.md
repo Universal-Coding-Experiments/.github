@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [multi-clock-dashboard](https://github.com/Universal-Coding-Experiments/multi-clock-dashboard) – Discover how to build a modern, responsive multi‑clock dashboard using HTML, CSS, and JavaScript. This project features real‑time SVG analog clocks, digital time display, timezone selection, and a stunning neon glow effect in dark mode. Perfect for developers, designers, and students looking to enhance their front‑end skills with practical UI/UX.
 - [pulse-ring-2.0](https://github.com/Universal-Coding-Experiments/pulse-ring-2.0) – Pulse Ring Loader 2.0 is a modern CSS loader animation designed for sleek web interfaces. It combines a glassmorphism center box with a pulse ring animation, layered aurora waves, floating particle sparks, and dynamic color themes. Built with pure HTML, CSS, and minimal JS, it’s lightweight, responsive, and accessibility‑friendly. 
 - [pulse-ring](https://github.com/Universal-Coding-Experiments/pulse-ring) – Pulse Ring - a lightweight, accessible CSS pulse animation component. Layered, GPU‑optimized rings with subtle rotation, reduced‑motion support, and visibility-aware performance guards. Drop-in HTML/CSS for loading indicators, attention cues, or hero loops; mobile‑friendly and easy to theme.
 - [parallax-landing-page](https://github.com/Universal-Coding-Experiments/parallax-landing-page) – Discover how to build a stunning Parallax Scrolling Landing Page using HTML, CSS, and Tailwind. This short demo showcases responsive design, smooth scrolling, fade‑in animations, testimonials, pricing grids, and social icons - all optimized for mobile and desktop.
@@ -33,7 +34,7 @@ Welcome to the Universal Coding Experiments organization.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
 - [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 27 of 27 public repositories. Last updated: 2026-01-15.
+> Showing 28 of 28 public repositories. Last updated: 2026-01-16.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
