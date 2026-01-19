@@ -5,6 +5,8 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [three.js_product_viewer](https://github.com/Universal-Coding-Experiments/three.js_product_viewer) – Three.js product viewer featuring HDRI environment presets, shadow controls, ground shadow catcher, post‑processing bloom, camera presets, auto‑rotation, color and texture customization, screenshot export, and responsive UI with model upload.
+- [modern-profile-card](https://github.com/Universal-Coding-Experiments/modern-profile-card) –  This project features a responsive glassmorphism design, adaptive dark/light theme toggle, and interactive elements like a follow button and social links.
 - [audio-reactive-blobs](https://github.com/Universal-Coding-Experiments/audio-reactive-blobs) – Bring your music to life with this interactive audio‑reactive blobs project. Upload any audio file, adjust sensitivity, smoothing, and volume, and watch colorful blobs pulse, rotate, and morph in sync with the rhythm. Built with HTML, JavaScript, and Tailwind CSS.
 - [multi-clock-dashboard](https://github.com/Universal-Coding-Experiments/multi-clock-dashboard) – Discover how to build a modern, responsive multi‑clock dashboard using HTML, CSS, and JavaScript. This project features real‑time SVG analog clocks, digital time display, timezone selection, and a stunning neon glow effect in dark mode. Perfect for developers, designers, and students looking to enhance their front‑end skills with practical UI/UX.
 - [pulse-ring-2.0](https://github.com/Universal-Coding-Experiments/pulse-ring-2.0) – Pulse Ring Loader 2.0 is a modern CSS loader animation designed for sleek web interfaces. It combines a glassmorphism center box with a pulse ring animation, layered aurora waves, floating particle sparks, and dynamic color themes. Built with pure HTML, CSS, and minimal JS, it’s lightweight, responsive, and accessibility‑friendly. 
@@ -33,9 +35,8 @@ Welcome to the Universal Coding Experiments organization.
 - [multi-shape-loader](https://github.com/Universal-Coding-Experiments/multi-shape-loader) – Build a creative multi‑shape loader using pure HTML and CSS. How to design animated loading indicators with circles, squares, and triangles — perfect for modern web projects and UI effects. Beginner‑friendly and easy to customize.
 - [dark_mode_toggle](https://github.com/Universal-Coding-Experiments/dark_mode_toggle) – Learn how to build a sleek Dark Mode toggle using HTML, CSS, and JavaScript. A quick and beginner‑friendly demo to add light/dark theme switching to any website.
 - [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation) – Create a smooth typing text animation effect using just HTML, CSS, and JavaScript.
-- [button_hover](https://github.com/Universal-Coding-Experiments/button_hover) – This guides you through creating a stylish glowing button hover effect using basic html and css.
 
-> Showing 29 of 29 public repositories. Last updated: 2026-01-18.
+> Showing 30 of 31 public repositories. Last updated: 2026-01-19.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
