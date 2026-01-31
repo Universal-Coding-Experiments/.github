@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism) – A modern student registration form built with HTML, CSS, Bootstrap 5, and JavaScript, featuring glassmorphism design, password strength meter, progress bar, green ticks, and success animations - perfect for frontend developers and UI/UX learners.
 - [tailwind-alerts](https://github.com/Universal-Coding-Experiments/tailwind-alerts)
 - [404-page-design](https://github.com/Universal-Coding-Experiments/404-page-design)
 - [three.js_product_viewer](https://github.com/Universal-Coding-Experiments/three.js_product_viewer) – Three.js product viewer featuring HDRI environment presets, shadow controls, ground shadow catcher, post‑processing bloom, camera presets, auto‑rotation, color and texture customization, screenshot export, and responsive UI with model upload.
@@ -34,9 +35,8 @@ Welcome to the Universal Coding Experiments organization.
 - [countdown-timer](https://github.com/Universal-Coding-Experiments/countdown-timer) – How to create a dynamic timer for events, launches, or websites — beginner‑friendly and easy to customize. Perfect for web developers, students, and anyone learning to code.
 - [card-flip-animation](https://github.com/Universal-Coding-Experiments/card-flip-animation) – Discover how to implement a captivating css animation with html and css, making your interactive elements shine!
 - [responsive-navbar](https://github.com/Universal-Coding-Experiments/responsive-navbar) – Responsive navigation bar using HTML, CSS, and JavaScript. How to create a mobile‑friendly navbar that adapts to different screen sizes — perfect for beginners and web developers looking to improve their projects.
-- [multi-shape-loader](https://github.com/Universal-Coding-Experiments/multi-shape-loader) – Build a creative multi‑shape loader using pure HTML and CSS. How to design animated loading indicators with circles, squares, and triangles — perfect for modern web projects and UI effects. Beginner‑friendly and easy to customize.
 
-> Showing 30 of 33 public repositories. Last updated: 2026-01-30.
+> Showing 30 of 34 public repositories. Last updated: 2026-01-31.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
