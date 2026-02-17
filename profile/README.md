@@ -5,6 +5,7 @@ Welcome to the Universal Coding Experiments organization.
 ## 📚 Public repositories
 <!-- ORG-REPOS-LIST:START -->
 
+- [modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui) – Modern Electric Card UI - A futuristic card component built with HTML, CSS, and JavaScript. Features animated SVG filters, glowing borders, and a settings drawer for real‑time customization of frequency, scale, aura color, glow intensity, and card rounding. Perfect for learning interactive UI design and creative coding.
 - [gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles) – GSAP Canvas Particles - An interactive particle animation built with GSAP and HTML5 Canvas. Features smooth scaling, rotation, easing effects, responsive resizing, and play/pause toggle. Perfect for learning creative coding and GSAP animations.
 - [student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism) – A modern student registration form built with HTML, CSS, Bootstrap 5, and JavaScript, featuring glassmorphism design, password strength meter, progress bar, green ticks, and success animations - perfect for frontend developers and UI/UX learners.
 - [tailwind-alerts](https://github.com/Universal-Coding-Experiments/tailwind-alerts)
@@ -34,9 +35,8 @@ Welcome to the Universal Coding Experiments organization.
 - [neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button) – Designing with HTML & CSS, Programming with JavaScript. 
 - [image-hover-zoom](https://github.com/Universal-Coding-Experiments/image-hover-zoom) – How to create a smooth image hover zoom effect using only HTML and CSS.
 - [countdown-timer](https://github.com/Universal-Coding-Experiments/countdown-timer) – How to create a dynamic timer for events, launches, or websites — beginner‑friendly and easy to customize. Perfect for web developers, students, and anyone learning to code.
-- [card-flip-animation](https://github.com/Universal-Coding-Experiments/card-flip-animation) – Discover how to implement a captivating css animation with html and css, making your interactive elements shine!
 
-> Showing 30 of 35 public repositories. Last updated: 2026-02-16.
+> Showing 30 of 36 public repositories. Last updated: 2026-02-17.
 <!-- ORG-REPOS-LIST:END -->
 
 > This list auto-updates daily via GitHub Actions.
