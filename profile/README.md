@@ -1,42 +1,131 @@
-# Universal Coding Experiments
+# 🌌 Universal Coding Experiments
 
-Welcome to the Universal Coding Experiments organization.
+Welcome to the **Universal Coding Experiments** laboratory! 🚀
+This organization serves as a playground for exploring modern web technologies, creative coding, and interactive UI/UX designs.
 
-## 📚 Public repositories
-<!-- ORG-REPOS-LIST:START -->
+---
 
-- [modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui) – Modern Electric Card UI - A futuristic card component built with HTML, CSS, and JavaScript. Features animated SVG filters, glowing borders, and a settings drawer for real‑time customization of frequency, scale, aura color, glow intensity, and card rounding. Perfect for learning interactive UI design and creative coding.
-- [gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles) – GSAP Canvas Particles - An interactive particle animation built with GSAP and HTML5 Canvas. Features smooth scaling, rotation, easing effects, responsive resizing, and play/pause toggle. Perfect for learning creative coding and GSAP animations.
-- [student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism) – A modern student registration form built with HTML, CSS, Bootstrap 5, and JavaScript, featuring glassmorphism design, password strength meter, progress bar, green ticks, and success animations - perfect for frontend developers and UI/UX learners.
-- [tailwind-alerts](https://github.com/Universal-Coding-Experiments/tailwind-alerts)
-- [404-page-design](https://github.com/Universal-Coding-Experiments/404-page-design)
-- [three.js_product_viewer](https://github.com/Universal-Coding-Experiments/three.js_product_viewer) – Three.js product viewer featuring HDRI environment presets, shadow controls, ground shadow catcher, post‑processing bloom, camera presets, auto‑rotation, color and texture customization, screenshot export, and responsive UI with model upload.
-- [modern-profile-card](https://github.com/Universal-Coding-Experiments/modern-profile-card) –  This project features a responsive glassmorphism design, adaptive dark/light theme toggle, and interactive elements like a follow button and social links.
-- [audio-reactive-blobs](https://github.com/Universal-Coding-Experiments/audio-reactive-blobs) – Bring your music to life with this interactive audio‑reactive blobs project. Upload any audio file, adjust sensitivity, smoothing, and volume, and watch colorful blobs pulse, rotate, and morph in sync with the rhythm. Built with HTML, JavaScript, and Tailwind CSS.
-- [multi-clock-dashboard](https://github.com/Universal-Coding-Experiments/multi-clock-dashboard) – Discover how to build a modern, responsive multi‑clock dashboard using HTML, CSS, and JavaScript. This project features real‑time SVG analog clocks, digital time display, timezone selection, and a stunning neon glow effect in dark mode. Perfect for developers, designers, and students looking to enhance their front‑end skills with practical UI/UX.
-- [pulse-ring-2.0](https://github.com/Universal-Coding-Experiments/pulse-ring-2.0) – Pulse Ring Loader 2.0 is a modern CSS loader animation designed for sleek web interfaces. It combines a glassmorphism center box with a pulse ring animation, layered aurora waves, floating particle sparks, and dynamic color themes. Built with pure HTML, CSS, and minimal JS, it’s lightweight, responsive, and accessibility‑friendly. 
-- [pulse-ring](https://github.com/Universal-Coding-Experiments/pulse-ring) – Pulse Ring - a lightweight, accessible CSS pulse animation component. Layered, GPU‑optimized rings with subtle rotation, reduced‑motion support, and visibility-aware performance guards. Drop-in HTML/CSS for loading indicators, attention cues, or hero loops; mobile‑friendly and easy to theme.
-- [parallax-landing-page](https://github.com/Universal-Coding-Experiments/parallax-landing-page) – Discover how to build a stunning Parallax Scrolling Landing Page using HTML, CSS, and Tailwind. This short demo showcases responsive design, smooth scrolling, fade‑in animations, testimonials, pricing grids, and social icons - all optimized for mobile and desktop.
-- [tic-tac-toe-vs-computer](https://github.com/Universal-Coding-Experiments/tic-tac-toe-vs-computer) – This project lets you play against the computer with three difficulty levels: Easy, Normal, and Hard. Features include a countdown timer, modern UI, play/retry overlay, and local history tracking of wins and losses. Perfect for beginners and intermediate developers looking to practice JavaScript game logic and responsive design.
-- [color-palette-generator](https://github.com/Universal-Coding-Experiments/color-palette-generator) – Live demo: generate harmonious color palettes, lock colors, preview themes, and export PNG/JSON — optimized for designers and developers. Learn sharing, mobile tips, and undo/redo workflow.
-- [ascii-art-generator](https://github.com/Universal-Coding-Experiments/ascii-art-generator) – ASCII Art Generator: type text or upload an image, apply presets, tweak density and randomness, then export a high‑quality PNG with gradient colorization - step‑by‑step and ready to reuse.
-- [calculator](https://github.com/Universal-Coding-Experiments/calculator) – A quick showcase of a responsive calculator built with HTML, CSS, and JavaScript. It adapts seamlessly to desktop and mobile screens, supports basic operations (+, −, ×, ÷, %), and displays full expressions like 10 × 10 before showing the result.
-- [illusion_snake_game](https://github.com/Universal-Coding-Experiments/illusion_snake_game) – llusion Snake — a lightweight, responsive HTML5 snake game with a visual rotation illusion, touch and keyboard controls, and a simple client leaderboard for demos. 
-- [clock](https://github.com/Universal-Coding-Experiments/clock) – Animated clock built with HTML5 Canvas and JavaScript. It’s fully responsive, adapts to any screen, and features smooth sweeping hands, tick marks, numerals, and subtle micro‑interactions. Perfect for creative coders, UI/UX enthusiasts, and anyone exploring interactive web projects.
-- [radial-audio-visualizer](https://github.com/Universal-Coding-Experiments/radial-audio-visualizer) – Experience a stunning radial audio visualizer built with HTML5 Canvas, CSS, and JavaScript. This interactive demo responds to audio input, lets you drag to move the center, pinch to change density, and even record your visuals. Perfect for creative coders, music lovers, and anyone exploring generative art.
-- [new-year-countdown](https://github.com/Universal-Coding-Experiments/new-year-countdown) – An interactive New Year celebration web project featuring, Fireworks and confetti effects rendered on HTML5 Canvas, Live countdown to the next New Year (auto‑updates every year), Elapsed timer showing how long the project has been running since its start date, Responsive UI/UX with crisp text placement, glow effects, and adaptive scaling.
-- [random-walkers](https://github.com/Universal-Coding-Experiments/random-walkers) – Responsive, high‑performance random walkers simulation built with JavaScript and HTML5 Canvas. This demo showcases colorful walkers moving with dynamic trails, interactive effects, and special behaviors — perfect for backgrounds, landing pages, and creative coding reels.
-- [starfield-simulation](https://github.com/Universal-Coding-Experiments/starfield-simulation) – This short demo shows a polished starfield simulation with depth perspective, motion blur, twinkling stars, and mouse/touch parallax — perfect for backgrounds, landing pages, and creative coding reels. The project is optimized for desktop and mobile with device‑pixel scaling and automatic resize handling.
-- [merry-christmas-fireworks](https://github.com/Universal-Coding-Experiments/merry-christmas-fireworks) – Watch Christmas magic burst into life with code! This short features a dazzling JavaScript fireworks animation built with HTML5 Canvas, styled with glowing particles and festive colors.
-- [snow-animation-in-JavaScript](https://github.com/Universal-Coding-Experiments/snow-animation-in-JavaScript) – Watch winter come alive in code! This short features a smooth JavaScript snow animation built with HTML5 Canvas
-- [emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain) – 🌧️ Want to impress your friends or audience with a fun coding trick? Create an Emoji Rain Animation using HTML, CSS, and JavaScript — all in under 1 minute! Emojis fall randomly across the screen with smooth animations, perfect for learning DOM manipulation, CSS keyframes, and creative frontend design.
-- [sentiment-analyzer](https://github.com/Universal-Coding-Experiments/sentiment-analyzer) – How to analyze text for positive, negative, or neutral sentiment with just a few lines of code. Perfect for beginners exploring AI, natural language processing (NLP), and Python programming.  
-- [form-input-validations](https://github.com/Universal-Coding-Experiments/form-input-validations) – Building modern, responsive sign-up forms with HTML, CSS, and JavaScript. You’ll learn advanced validation techniques, error handling, and UI/UX improvements to make your forms professional and user-friendly.
-- [neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button) – Designing with HTML & CSS, Programming with JavaScript. 
-- [image-hover-zoom](https://github.com/Universal-Coding-Experiments/image-hover-zoom) – How to create a smooth image hover zoom effect using only HTML and CSS.
-- [countdown-timer](https://github.com/Universal-Coding-Experiments/countdown-timer) – How to create a dynamic timer for events, launches, or websites — beginner‑friendly and easy to customize. Perfect for web developers, students, and anyone learning to code.
+## 📊 Laboratory Statistics
+<!-- ORG-REPOS-STATS:START -->
 
-> Showing 30 of 36 public repositories. Last updated: 2026-02-18.
-<!-- ORG-REPOS-LIST:END -->
+| 📜 Repositories | ⭐ Total Stars | 🍴 Total Forks | 👁️ Watchers | 🐞 Issues |
+| :--- | :--- | :--- | :--- | :--- |
+| 37 | 1 | 0 | 1 | 0 |
 
-> This list auto-updates daily via GitHub Actions.
+*Last updated: 2026-02-18*
+<!-- ORG-REPOS-STATS:END -->
+
+---
+
+## 🚀 Recent Updates
+<!-- ORG-REPOS-RECENT:START -->
+
+| <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b> | <b>[modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)</b> | <b>[gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles)</b> |
+| :--- | :--- | :--- |
+| <i>Updated 38m ago</i> | <i>Updated 1d ago</i> | <i>Updated 3d ago</i> |
+<!-- ORG-REPOS-RECENT:END -->
+
+---
+
+## ✨ Featured Experiments
+<!-- ORG-REPOS-FEATURED:START -->
+
+| :--- | :--- |
+| <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> <b>⭐ 1</b><br>🏷️ <code>JavaScript</code><br>🌧️ Want to impress your friends or audience with a fun coding trick? Create an Emoji Rain Animat... | <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b><br>🏷️ <code>JavaScript</code><br>In this project, we build a GSAP Flip Card Slider using Bootstrap, CSS, and GSAP (GreenSock Anima... |
+| <b>[modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)</b><br>🏷️ <code>CSS</code><br>Modern Electric Card UI - A futuristic card component built with HTML, CSS, and JavaScript. Featu... | <b>[gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles)</b><br>🏷️ <code>JavaScript</code><br>GSAP Canvas Particles - An interactive particle animation built with GSAP and HTML5 Canvas. Featu... |
+<!-- ORG-REPOS-FEATURED:END -->
+
+---
+
+## 🧭 Laboratory Explorer
+<!-- ORG-REPOS-TREE:START -->
+- **Other Experiments**
+  - 📄 [gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)
+  - 📄 [modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)
+  - 📄 [gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles)
+  - 📄 [student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism)
+  - 📄 [tailwind-alerts](https://github.com/Universal-Coding-Experiments/tailwind-alerts)
+  - 📄 [404-page-design](https://github.com/Universal-Coding-Experiments/404-page-design)
+  - 📄 [three.js_product_viewer](https://github.com/Universal-Coding-Experiments/three.js_product_viewer)
+  - 📄 [modern-profile-card](https://github.com/Universal-Coding-Experiments/modern-profile-card)
+  - 📄 [audio-reactive-blobs](https://github.com/Universal-Coding-Experiments/audio-reactive-blobs)
+  - 📄 [multi-clock-dashboard](https://github.com/Universal-Coding-Experiments/multi-clock-dashboard)
+  - 📄 [pulse-ring-2.0](https://github.com/Universal-Coding-Experiments/pulse-ring-2.0)
+  - 📄 [pulse-ring](https://github.com/Universal-Coding-Experiments/pulse-ring)
+  - 📄 [parallax-landing-page](https://github.com/Universal-Coding-Experiments/parallax-landing-page)
+  - 📄 [tic-tac-toe-vs-computer](https://github.com/Universal-Coding-Experiments/tic-tac-toe-vs-computer)
+  - 📄 [color-palette-generator](https://github.com/Universal-Coding-Experiments/color-palette-generator)
+  - 📄 [ascii-art-generator](https://github.com/Universal-Coding-Experiments/ascii-art-generator)
+  - 📄 [calculator](https://github.com/Universal-Coding-Experiments/calculator)
+  - 📄 [illusion_snake_game](https://github.com/Universal-Coding-Experiments/illusion_snake_game)
+  - 📄 [clock](https://github.com/Universal-Coding-Experiments/clock)
+  - 📄 [radial-audio-visualizer](https://github.com/Universal-Coding-Experiments/radial-audio-visualizer)
+  - 📄 [new-year-countdown](https://github.com/Universal-Coding-Experiments/new-year-countdown)
+  - 📄 [random-walkers](https://github.com/Universal-Coding-Experiments/random-walkers)
+  - 📄 [starfield-simulation](https://github.com/Universal-Coding-Experiments/starfield-simulation)
+  - 📄 [merry-christmas-fireworks](https://github.com/Universal-Coding-Experiments/merry-christmas-fireworks)
+  - 📄 [snow-animation-in-JavaScript](https://github.com/Universal-Coding-Experiments/snow-animation-in-JavaScript)
+  - 📄 [emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)
+  - 📄 [sentiment-analyzer](https://github.com/Universal-Coding-Experiments/sentiment-analyzer)
+  - 📄 [form-input-validations](https://github.com/Universal-Coding-Experiments/form-input-validations)
+  - 📄 [neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button)
+  - 📄 [image-hover-zoom](https://github.com/Universal-Coding-Experiments/image-hover-zoom)
+  - 📄 [countdown-timer](https://github.com/Universal-Coding-Experiments/countdown-timer)
+  - 📄 [card-flip-animation](https://github.com/Universal-Coding-Experiments/card-flip-animation)
+  - 📄 [responsive-navbar](https://github.com/Universal-Coding-Experiments/responsive-navbar)
+  - 📄 [multi-shape-loader](https://github.com/Universal-Coding-Experiments/multi-shape-loader)
+  - 📄 [dark_mode_toggle](https://github.com/Universal-Coding-Experiments/dark_mode_toggle)
+  - 📄 [typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation)
+  - 📄 [button_hover](https://github.com/Universal-Coding-Experiments/button_hover)
+<!-- ORG-REPOS-TREE:END -->
+
+---
+
+## 📂 Research Categories
+<!-- ORG-REPOS-CATEGORIZED:START -->
+<details>
+<summary><b>🔬 Other Experiments</b> (37)</summary>
+
+
+| :--- | :--- |
+| <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b><br>In this project, we build a GSAP Flip Card Slider using Bootstrap, CSS, and G... | <b>[modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)</b><br>Modern Electric Card UI - A futuristic card component built with HTML, CSS, a... |
+| <b>[gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles)</b><br>GSAP Canvas Particles - An interactive particle animation built with GSAP and... | <b>[student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism)</b><br>A modern student registration form built with HTML, CSS, Bootstrap 5, and Jav... |
+| <b>[tailwind-alerts](https://github.com/Universal-Coding-Experiments/tailwind-alerts)</b><br><i>No description provided.</i> | <b>[404-page-design](https://github.com/Universal-Coding-Experiments/404-page-design)</b><br><i>No description provided.</i> |
+| <b>[three.js_product_viewer](https://github.com/Universal-Coding-Experiments/three.js_product_viewer)</b><br>Three.js product viewer featuring HDRI environment presets, shadow controls, ... | <b>[modern-profile-card](https://github.com/Universal-Coding-Experiments/modern-profile-card)</b><br> This project features a responsive glassmorphism design, adaptive dark/light... |
+| <b>[audio-reactive-blobs](https://github.com/Universal-Coding-Experiments/audio-reactive-blobs)</b><br>Bring your music to life with this interactive audio‑reactive blobs project. ... | <b>[multi-clock-dashboard](https://github.com/Universal-Coding-Experiments/multi-clock-dashboard)</b><br>Discover how to build a modern, responsive multi‑clock dashboard using HTML, ... |
+| <b>[pulse-ring-2.0](https://github.com/Universal-Coding-Experiments/pulse-ring-2.0)</b><br>Pulse Ring Loader 2.0 is a modern CSS loader animation designed for sleek web... | <b>[pulse-ring](https://github.com/Universal-Coding-Experiments/pulse-ring)</b><br>Pulse Ring - a lightweight, accessible CSS pulse animation component. Layered... |
+| <b>[parallax-landing-page](https://github.com/Universal-Coding-Experiments/parallax-landing-page)</b><br>Discover how to build a stunning Parallax Scrolling Landing Page using HTML, ... | <b>[tic-tac-toe-vs-computer](https://github.com/Universal-Coding-Experiments/tic-tac-toe-vs-computer)</b><br>This project lets you play against the computer with three difficulty levels:... |
+| <b>[color-palette-generator](https://github.com/Universal-Coding-Experiments/color-palette-generator)</b><br>Live demo: generate harmonious color palettes, lock colors, preview themes, a... | <b>[ascii-art-generator](https://github.com/Universal-Coding-Experiments/ascii-art-generator)</b><br>ASCII Art Generator: type text or upload an image, apply presets, tweak densi... |
+| <b>[calculator](https://github.com/Universal-Coding-Experiments/calculator)</b><br>A quick showcase of a responsive calculator built with HTML, CSS, and JavaScr... | <b>[illusion_snake_game](https://github.com/Universal-Coding-Experiments/illusion_snake_game)</b><br>llusion Snake — a lightweight, responsive HTML5 snake game with a visual rota... |
+| <b>[clock](https://github.com/Universal-Coding-Experiments/clock)</b><br>Animated clock built with HTML5 Canvas and JavaScript. It’s fully responsive,... | <b>[radial-audio-visualizer](https://github.com/Universal-Coding-Experiments/radial-audio-visualizer)</b><br>Experience a stunning radial audio visualizer built with HTML5 Canvas, CSS, a... |
+| <b>[new-year-countdown](https://github.com/Universal-Coding-Experiments/new-year-countdown)</b><br>An interactive New Year celebration web project featuring, Fireworks and conf... | <b>[random-walkers](https://github.com/Universal-Coding-Experiments/random-walkers)</b><br>Responsive, high‑performance random walkers simulation built with JavaScript ... |
+| <b>[starfield-simulation](https://github.com/Universal-Coding-Experiments/starfield-simulation)</b><br>This short demo shows a polished starfield simulation with depth perspective,... | <b>[merry-christmas-fireworks](https://github.com/Universal-Coding-Experiments/merry-christmas-fireworks)</b><br>Watch Christmas magic burst into life with code! This short features a dazzli... |
+| <b>[snow-animation-in-JavaScript](https://github.com/Universal-Coding-Experiments/snow-animation-in-JavaScript)</b><br>Watch winter come alive in code! This short features a smooth JavaScript snow... | <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> <b>⭐ 1</b><br>🌧️ Want to impress your friends or audience with a fun coding trick? Create ... |
+| <b>[sentiment-analyzer](https://github.com/Universal-Coding-Experiments/sentiment-analyzer)</b><br>How to analyze text for positive, negative, or neutral sentiment with just a ... | <b>[form-input-validations](https://github.com/Universal-Coding-Experiments/form-input-validations)</b><br>Building modern, responsive sign-up forms with HTML, CSS, and JavaScript. You... |
+| <b>[neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button)</b><br>Designing with HTML & CSS, Programming with JavaScript.  | <b>[image-hover-zoom](https://github.com/Universal-Coding-Experiments/image-hover-zoom)</b><br>How to create a smooth image hover zoom effect using only HTML and CSS. |
+| <b>[countdown-timer](https://github.com/Universal-Coding-Experiments/countdown-timer)</b><br>How to create a dynamic timer for events, launches, or websites — beginner‑fr... | <b>[card-flip-animation](https://github.com/Universal-Coding-Experiments/card-flip-animation)</b><br>Discover how to implement a captivating css animation with html and css, maki... |
+| <b>[responsive-navbar](https://github.com/Universal-Coding-Experiments/responsive-navbar)</b><br>Responsive navigation bar using HTML, CSS, and JavaScript. How to create a mo... | <b>[multi-shape-loader](https://github.com/Universal-Coding-Experiments/multi-shape-loader)</b><br>Build a creative multi‑shape loader using pure HTML and CSS. How to design an... |
+| <b>[dark_mode_toggle](https://github.com/Universal-Coding-Experiments/dark_mode_toggle)</b><br>Learn how to build a sleek Dark Mode toggle using HTML, CSS, and JavaScript. ... | <b>[typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation)</b><br>Create a smooth typing text animation effect using just HTML, CSS, and JavaSc... |
+| <b>[button_hover](https://github.com/Universal-Coding-Experiments/button_hover)</b><br>This guides you through creating a stylish glowing button hover effect using ... |  |
+
+
+</details>
+<!-- ORG-REPOS-CATEGORIZED:END -->
+
+---
+
+## 🛠️ Technology Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-green?style=for-the-badge&logo=greensock&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+> [!TIP]
+> This laboratory auto-updates daily. Explore the experiments and feel free to use them in your own research!
+
+> [!NOTE]
+> All projects here are built for educational and experimental purposes.
