@@ -10,9 +10,9 @@ This organization serves as a playground for exploring modern web technologies, 
 
 | 📜 Repositories | ⭐ Total Stars | 🍴 Total Forks | 👁️ Watchers | 🐞 Issues |
 | :--- | :--- | :--- | :--- | :--- |
-| 38 | 1 | 0 | 1 | 0 |
+| 38 | 2 | 0 | 2 | 0 |
 
-*Last updated: 2026-05-05*
+*Last updated: 2026-05-06*
 <!-- ORG-REPOS-STATS:END -->
 
 ---
@@ -20,9 +20,9 @@ This organization serves as a playground for exploring modern web technologies, 
 ## 🚀 Recent Updates
 <!-- ORG-REPOS-RECENT:START -->
 
-| <b>[CipherNyx-Chatbot](https://github.com/Universal-Coding-Experiments/CipherNyx-Chatbot)</b> | <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> | <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b> |
+| <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b> | <b>[CipherNyx-Chatbot](https://github.com/Universal-Coding-Experiments/CipherNyx-Chatbot)</b> | <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> |
 | :--- | :--- | :--- |
-| <i>Updated 2026-03-22</i> | <i>Updated 2026-02-18</i> | <i>Updated 2026-02-18</i> |
+| <i>Updated 18h ago</i> | <i>Updated 2026-03-22</i> | <i>Updated 2026-02-18</i> |
 <!-- ORG-REPOS-RECENT:END -->
 
 ---
@@ -31,8 +31,8 @@ This organization serves as a playground for exploring modern web technologies, 
 <!-- ORG-REPOS-FEATURED:START -->
 
 | :--- | :--- |
-| <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> <b>⭐ 1</b><br>🏷️ <code>JavaScript</code><br>🌧️ Want to impress your friends or audience with a fun coding trick? Create an Emoji Rain Animat... | <b>[CipherNyx-Chatbot](https://github.com/Universal-Coding-Experiments/CipherNyx-Chatbot)</b><br>🏷️ <code>HTML</code><br>In this project, Chatbot interface using HTML, Tailwind CSS, and JavaScript. The chatbot responds... |
-| <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b><br>🏷️ <code>JavaScript</code><br>In this project, we build a GSAP Flip Card Slider using Bootstrap, CSS, and GSAP (GreenSock Anima... | <b>[modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)</b><br>🏷️ <code>CSS</code><br>Modern Electric Card UI - A futuristic card component built with HTML, CSS, and JavaScript. Featu... |
+| <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b> <b>⭐ 1</b><br>🏷️ <code>JavaScript</code><br>In this project, we build a GSAP Flip Card Slider using Bootstrap, CSS, and GSAP (GreenSock Anima... | <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> <b>⭐ 1</b><br>🏷️ <code>JavaScript</code><br>🌧️ Want to impress your friends or audience with a fun coding trick? Create an Emoji Rain Animat... |
+| <b>[CipherNyx-Chatbot](https://github.com/Universal-Coding-Experiments/CipherNyx-Chatbot)</b><br>🏷️ <code>HTML</code><br>In this project, Chatbot interface using HTML, Tailwind CSS, and JavaScript. The chatbot responds... | <b>[modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)</b><br>🏷️ <code>CSS</code><br>Modern Electric Card UI - A futuristic card component built with HTML, CSS, and JavaScript. Featu... |
 <!-- ORG-REPOS-FEATURED:END -->
 
 ---
@@ -40,9 +40,9 @@ This organization serves as a playground for exploring modern web technologies, 
 ## 🧭 Laboratory Explorer
 <!-- ORG-REPOS-TREE:START -->
 - **Other Experiments**
+  - 📄 [gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)
   - 📄 [CipherNyx-Chatbot](https://github.com/Universal-Coding-Experiments/CipherNyx-Chatbot)
   - 📄 [emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)
-  - 📄 [gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)
   - 📄 [modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)
   - 📄 [gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles)
   - 📄 [student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism)
@@ -89,8 +89,8 @@ This organization serves as a playground for exploring modern web technologies, 
 
 
 | :--- | :--- |
-| <b>[CipherNyx-Chatbot](https://github.com/Universal-Coding-Experiments/CipherNyx-Chatbot)</b><br>In this project, Chatbot interface using HTML, Tailwind CSS, and JavaScript. ... | <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> <b>⭐ 1</b><br>🌧️ Want to impress your friends or audience with a fun coding trick? Create ... |
-| <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b><br>In this project, we build a GSAP Flip Card Slider using Bootstrap, CSS, and G... | <b>[modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)</b><br>Modern Electric Card UI - A futuristic card component built with HTML, CSS, a... |
+| <b>[gsap-flip-card-trick](https://github.com/Universal-Coding-Experiments/gsap-flip-card-trick)</b> <b>⭐ 1</b><br>In this project, we build a GSAP Flip Card Slider using Bootstrap, CSS, and G... | <b>[CipherNyx-Chatbot](https://github.com/Universal-Coding-Experiments/CipherNyx-Chatbot)</b><br>In this project, Chatbot interface using HTML, Tailwind CSS, and JavaScript. ... |
+| <b>[emoji_rain](https://github.com/Universal-Coding-Experiments/emoji_rain)</b> <b>⭐ 1</b><br>🌧️ Want to impress your friends or audience with a fun coding trick? Create ... | <b>[modern-electric-card-ui](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui)</b><br>Modern Electric Card UI - A futuristic card component built with HTML, CSS, a... |
 | <b>[gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles)</b><br>GSAP Canvas Particles - An interactive particle animation built with GSAP and... | <b>[student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism)</b><br>A modern student registration form built with HTML, CSS, Bootstrap 5, and Jav... |
 | <b>[tailwind-alerts](https://github.com/Universal-Coding-Experiments/tailwind-alerts)</b><br><i>No description provided.</i> | <b>[404-page-design](https://github.com/Universal-Coding-Experiments/404-page-design)</b><br><i>No description provided.</i> |
 | <b>[three.js_product_viewer](https://github.com/Universal-Coding-Experiments/three.js_product_viewer)</b><br>Three.js product viewer featuring HDRI environment presets, shadow controls, ... | <b>[modern-profile-card](https://github.com/Universal-Coding-Experiments/modern-profile-card)</b><br> This project features a responsive glassmorphism design, adaptive dark/light... |
