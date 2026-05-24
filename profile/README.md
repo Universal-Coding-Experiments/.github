@@ -12,7 +12,7 @@ This organization serves as a playground for exploring modern web technologies, 
 | :--- | :--- | :--- | :--- | :--- |
 | 38 | 2 | 0 | 2 | 0 |
 
-*Last updated: 2026-05-23*
+*Last updated: 2026-05-24*
 <!-- ORG-REPOS-STATS:END -->
 
 ---
@@ -94,7 +94,7 @@ This organization serves as a playground for exploring modern web technologies, 
 | <b>[gsap-canvas-particles](https://github.com/Universal-Coding-Experiments/gsap-canvas-particles)</b><br>GSAP Canvas Particles - An interactive particle animation built with GSAP and... | <b>[student-registration-form-glassmorphism](https://github.com/Universal-Coding-Experiments/student-registration-form-glassmorphism)</b><br>A modern student registration form built with HTML, CSS, Bootstrap 5, and Jav... |
 | <b>[tailwind-alerts](https://github.com/Universal-Coding-Experiments/tailwind-alerts)</b><br><i>No description provided.</i> | <b>[404-page-design](https://github.com/Universal-Coding-Experiments/404-page-design)</b><br><i>No description provided.</i> |
 | <b>[three.js_product_viewer](https://github.com/Universal-Coding-Experiments/three.js_product_viewer)</b><br>Three.js product viewer featuring HDRI environment presets, shadow controls, ... | <b>[modern-profile-card](https://github.com/Universal-Coding-Experiments/modern-profile-card)</b><br> This project features a responsive glassmorphism design, adaptive dark/light... |
-| <b>[audio-reactive-blobs](https://github.com/Universal-Coding-Experiments/audio-reactive-blobs)</b><br>Bring your music to life with this interactive audio‑reactive blobs project. ... | <b>[multi-clock-dashboard](https://github.com/Universal-Coding-Experiments/multi-clock-dashboard)</b><br>Discover how to build a modern, responsive multi‑clock dashboard using HTML, ... |
+| <b>[audio-reactive-blobs](https://github.com/Universal-Coding-Experiments/audio-reactive-blobs)</b><br>Bring your music to life with this interactive audio���reactive blobs project... | <b>[multi-clock-dashboard](https://github.com/Universal-Coding-Experiments/multi-clock-dashboard)</b><br>Discover how to build a modern, responsive multi‑clock dashboard using HTML, ... |
 | <b>[pulse-ring-2.0](https://github.com/Universal-Coding-Experiments/pulse-ring-2.0)</b><br>Pulse Ring Loader 2.0 is a modern CSS loader animation designed for sleek web... | <b>[pulse-ring](https://github.com/Universal-Coding-Experiments/pulse-ring)</b><br>Pulse Ring - a lightweight, accessible CSS pulse animation component. Layered... |
 | <b>[parallax-landing-page](https://github.com/Universal-Coding-Experiments/parallax-landing-page)</b><br>Discover how to build a stunning Parallax Scrolling Landing Page using HTML, ... | <b>[tic-tac-toe-vs-computer](https://github.com/Universal-Coding-Experiments/tic-tac-toe-vs-computer)</b><br>This project lets you play against the computer with three difficulty levels:... |
 | <b>[color-palette-generator](https://github.com/Universal-Coding-Experiments/color-palette-generator)</b><br>Live demo: generate harmonious color palettes, lock colors, preview themes, a... | <b>[ascii-art-generator](https://github.com/Universal-Coding-Experiments/ascii-art-generator)</b><br>ASCII Art Generator: type text or upload an image, apply presets, tweak densi... |
