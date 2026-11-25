@@ -12,7 +12,7 @@ This organization serves as a playground for exploring modern web technologies, 
 | :--- | :--- | :--- | :--- | :--- |
 | 38 | 2 | 0 | 2 | 0 |
 
-*Last updated: 2026-11-24*
+*Last updated: 2026-11-25*
 <!-- ORG-REPOS-STATS:END -->
 
 ---
@@ -106,7 +106,7 @@ This organization serves as a playground for exploring modern web technologies, 
 | <b>[form-input-validations](https://github.com/Universal-Coding-Experiments/form-input-validations)</b><br>Building modern, responsive sign-up forms with HTML, CSS, and JavaScript. You... | <b>[neon-confetti-button](https://github.com/Universal-Coding-Experiments/neon-confetti-button)</b><br>Designing with HTML & CSS, Programming with JavaScript.  |
 | <b>[image-hover-zoom](https://github.com/Universal-Coding-Experiments/image-hover-zoom)</b><br>How to create a smooth image hover zoom effect using only HTML and CSS. | <b>[countdown-timer](https://github.com/Universal-Coding-Experiments/countdown-timer)</b><br>How to create a dynamic timer for events, launches, or websites — beginner‑fr... |
 | <b>[card-flip-animation](https://github.com/Universal-Coding-Experiments/card-flip-animation)</b><br>Discover how to implement a captivating css animation with html and css, maki... | <b>[responsive-navbar](https://github.com/Universal-Coding-Experiments/responsive-navbar)</b><br>Responsive navigation bar using HTML, CSS, and JavaScript. How to create a mo... |
-| <b>[multi-shape-loader](https://github.com/Universal-Coding-Experiments/multi-shape-loader)</b><br>Build a creative multi���shape loader using pure HTML and CSS. How to design ... | <b>[dark_mode_toggle](https://github.com/Universal-Coding-Experiments/dark_mode_toggle)</b><br>Learn how to build a sleek Dark Mode toggle using HTML, CSS, and JavaScript. ... |
+| <b>[multi-shape-loader](https://github.com/Universal-Coding-Experiments/multi-shape-loader)</b><br>Build a creative multi‑shape loader using pure HTML and CSS. How to design an... | <b>[dark_mode_toggle](https://github.com/Universal-Coding-Experiments/dark_mode_toggle)</b><br>Learn how to build a sleek Dark Mode toggle using HTML, CSS, and JavaScript. ... |
 | <b>[typing_text_animation](https://github.com/Universal-Coding-Experiments/typing_text_animation)</b><br>Create a smooth typing text animation effect using just HTML, CSS, and JavaSc... | <b>[button_hover](https://github.com/Universal-Coding-Experiments/button_hover)</b><br>This guides you through creating a stylish glowing button hover effect using ... |
 
 
